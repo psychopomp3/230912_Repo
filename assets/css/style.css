@@ -2,3 +2,9 @@
 body{
     background-color: blueviolet;
 }
+
+a{
+    color: blue;
+    font-size: 20pt;
+    font-style: italic;
+}
